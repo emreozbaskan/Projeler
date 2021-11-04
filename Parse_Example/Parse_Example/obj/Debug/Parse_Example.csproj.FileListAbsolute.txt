@@ -1,0 +1,7 @@
+C:\MyWorkspaces\Parse_Example\Parse_Example\bin\Debug\Parse_Example.exe.config
+C:\MyWorkspaces\Parse_Example\Parse_Example\bin\Debug\Parse_Example.exe
+C:\MyWorkspaces\Parse_Example\Parse_Example\bin\Debug\Parse_Example.pdb
+C:\MyWorkspaces\Parse_Example\Parse_Example\obj\Debug\Parse_Example.csproj.AssemblyReference.cache
+C:\MyWorkspaces\Parse_Example\Parse_Example\obj\Debug\Parse_Example.csproj.CoreCompileInputs.cache
+C:\MyWorkspaces\Parse_Example\Parse_Example\obj\Debug\Parse_Example.exe
+C:\MyWorkspaces\Parse_Example\Parse_Example\obj\Debug\Parse_Example.pdb
