@@ -1,0 +1,10 @@
+C:\MyWorkspaces\GitWorkSpaces\StringMethodlar\StringMethodlar\bin\Debug\StringMethodlar.exe.config
+C:\MyWorkspaces\GitWorkSpaces\StringMethodlar\StringMethodlar\bin\Debug\StringMethodlar.exe
+C:\MyWorkspaces\GitWorkSpaces\StringMethodlar\StringMethodlar\bin\Debug\StringMethodlar.pdb
+C:\MyWorkspaces\GitWorkSpaces\StringMethodlar\StringMethodlar\obj\Debug\StringMethodlar.csproj.AssemblyReference.cache
+C:\MyWorkspaces\GitWorkSpaces\StringMethodlar\StringMethodlar\obj\Debug\StringMethodlar.Form1.resources
+C:\MyWorkspaces\GitWorkSpaces\StringMethodlar\StringMethodlar\obj\Debug\StringMethodlar.Properties.Resources.resources
+C:\MyWorkspaces\GitWorkSpaces\StringMethodlar\StringMethodlar\obj\Debug\StringMethodlar.csproj.GenerateResource.cache
+C:\MyWorkspaces\GitWorkSpaces\StringMethodlar\StringMethodlar\obj\Debug\StringMethodlar.csproj.CoreCompileInputs.cache
+C:\MyWorkspaces\GitWorkSpaces\StringMethodlar\StringMethodlar\obj\Debug\StringMethodlar.exe
+C:\MyWorkspaces\GitWorkSpaces\StringMethodlar\StringMethodlar\obj\Debug\StringMethodlar.pdb
