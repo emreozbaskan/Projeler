@@ -125,6 +125,23 @@ namespace MathMetodlar
             int sayi3 = Convert.ToInt32(txtSayi3.Text);
 
             MessageBox.Show(Math.Min(Math.Min(sayi1, sayi2), sayi3).ToString());
+
         }
+
+
     }
 }
+
+//public static class CustomExtension
+//{
+//    public string[] CustomSplit(this string s, params char[] caracters)
+//    {
+//        string[] returnArray = new string[0];
+//        for (int i = 0; i < caracters.Length; i++)
+//        {
+//            char caracter = caracters[i];
+            
+//        }
+//        return returnArray;
+//    }
+//}

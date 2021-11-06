@@ -1,0 +1,10 @@
+C:\MyWorkspaces\GitWorkSpaces\PersonalOtomasyon\PersonalOtomasyon\bin\Debug\PersonalOtomasyon.exe.config
+C:\MyWorkspaces\GitWorkSpaces\PersonalOtomasyon\PersonalOtomasyon\bin\Debug\PersonalOtomasyon.exe
+C:\MyWorkspaces\GitWorkSpaces\PersonalOtomasyon\PersonalOtomasyon\bin\Debug\PersonalOtomasyon.pdb
+C:\MyWorkspaces\GitWorkSpaces\PersonalOtomasyon\PersonalOtomasyon\obj\Debug\PersonalOtomasyon.csproj.AssemblyReference.cache
+C:\MyWorkspaces\GitWorkSpaces\PersonalOtomasyon\PersonalOtomasyon\obj\Debug\PersonalOtomasyon.Form1.resources
+C:\MyWorkspaces\GitWorkSpaces\PersonalOtomasyon\PersonalOtomasyon\obj\Debug\PersonalOtomasyon.Properties.Resources.resources
+C:\MyWorkspaces\GitWorkSpaces\PersonalOtomasyon\PersonalOtomasyon\obj\Debug\PersonalOtomasyon.csproj.GenerateResource.cache
+C:\MyWorkspaces\GitWorkSpaces\PersonalOtomasyon\PersonalOtomasyon\obj\Debug\PersonalOtomasyon.csproj.CoreCompileInputs.cache
+C:\MyWorkspaces\GitWorkSpaces\PersonalOtomasyon\PersonalOtomasyon\obj\Debug\PersonalOtomasyon.exe
+C:\MyWorkspaces\GitWorkSpaces\PersonalOtomasyon\PersonalOtomasyon\obj\Debug\PersonalOtomasyon.pdb
