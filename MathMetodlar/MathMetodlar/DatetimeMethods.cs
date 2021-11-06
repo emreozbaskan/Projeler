@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace MathMetodlar
 {
-    public partial class Form1 : Form
+    public partial class DatetimeMethods : Form
     {
-        public Form1()
+        public DatetimeMethods()
         {
             InitializeComponent();
         }

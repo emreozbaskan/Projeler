@@ -1,7 +1,7 @@
 ﻿
 namespace MathMetodlar
 {
-    partial class Form1
+    partial class DatetimeMethods
     {
         /// <summary>
         /// Required designer variable.
