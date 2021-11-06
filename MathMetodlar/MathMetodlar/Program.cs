@@ -16,7 +16,7 @@ namespace MathMetodlar
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new DatetimeMethods());
+            Application.Run(new MathMethods());
         }
     }
 }

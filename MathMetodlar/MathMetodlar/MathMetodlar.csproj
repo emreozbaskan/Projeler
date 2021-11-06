@@ -52,10 +52,19 @@
     <Compile Include="DatetimeMethods.Designer.cs">
       <DependentUpon>DatetimeMethods.cs</DependentUpon>
     </Compile>
+    <Compile Include="MathMethods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MathMethods.Designer.cs">
+      <DependentUpon>MathMethods.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="DatetimeMethods.resx">
       <DependentUpon>DatetimeMethods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MathMethods.resx">
+      <DependentUpon>MathMethods.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

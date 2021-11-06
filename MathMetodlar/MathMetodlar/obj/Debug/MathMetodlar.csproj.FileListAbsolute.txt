@@ -2,9 +2,10 @@ C:\MyWorkspaces\GitWorkSpaces\MathMetodlar\MathMetodlar\bin\Debug\MathMetodlar.e
 C:\MyWorkspaces\GitWorkSpaces\MathMetodlar\MathMetodlar\bin\Debug\MathMetodlar.exe
 C:\MyWorkspaces\GitWorkSpaces\MathMetodlar\MathMetodlar\bin\Debug\MathMetodlar.pdb
 C:\MyWorkspaces\GitWorkSpaces\MathMetodlar\MathMetodlar\obj\Debug\MathMetodlar.csproj.AssemblyReference.cache
-C:\MyWorkspaces\GitWorkSpaces\MathMetodlar\MathMetodlar\obj\Debug\MathMetodlar.Form1.resources
 C:\MyWorkspaces\GitWorkSpaces\MathMetodlar\MathMetodlar\obj\Debug\MathMetodlar.Properties.Resources.resources
 C:\MyWorkspaces\GitWorkSpaces\MathMetodlar\MathMetodlar\obj\Debug\MathMetodlar.csproj.GenerateResource.cache
 C:\MyWorkspaces\GitWorkSpaces\MathMetodlar\MathMetodlar\obj\Debug\MathMetodlar.csproj.CoreCompileInputs.cache
 C:\MyWorkspaces\GitWorkSpaces\MathMetodlar\MathMetodlar\obj\Debug\MathMetodlar.exe
 C:\MyWorkspaces\GitWorkSpaces\MathMetodlar\MathMetodlar\obj\Debug\MathMetodlar.pdb
+C:\MyWorkspaces\GitWorkSpaces\MathMetodlar\MathMetodlar\obj\Debug\MathMetodlar.DatetimeMethods.resources
+C:\MyWorkspaces\GitWorkSpaces\MathMetodlar\MathMetodlar\obj\Debug\MathMetodlar.MathMethods.resources
